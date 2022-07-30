@@ -10,4 +10,3 @@ This is a blog, a document where I save things I have learned in free time.
 *Still learning..*
 <br><br>
 If you see this by accident, hope you enjoy it :3
-Feel free to use this for education too :3.
