@@ -1,7 +1,7 @@
 ## Network
 I get start with CompTia Network+.
 
-#### 1. Network Model (Just sth in general)
+#### 1. Network (Just sth in general)
 ###### OSI 7-layers model
 Physical - Data link - Network - Transport - Session - Presentation - Application.
 ###### Frame
@@ -20,3 +20,18 @@ IP address: a logic address when a device connect to internet through a router b
 Ports: to tell the computer what data is used for(ex: 80 is for a webpage//http).
 Packets have sequence numbers so sw can reassemble the file correctly.
 Protocol: TCP and UDP.
+<br>
+#### 2. Physical Network (Just sth in general)
+
+###### Cable - Topology
+**Topology:**
+1/ Bus topology
+2/ Ring topology
+3/ Star topology 
+3.5/ Star - bus
+4/ Mesh topology (Fault tolerance)
+<br>
+**Coaxial Cable:**
+4 parts: Inner conductor, Insulator, Outer conductor, PVC sheath
+RG: 
+Resitance
