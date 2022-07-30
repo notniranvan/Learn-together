@@ -4,9 +4,10 @@ I am an electrical and electronic engineering student in Vietnam. I love coding 
 This is a blog, a document where I save things I have learned in free time.
 
 #### Content:
-##### Network
-##### Linux
-#####P rogramming language
+##### [Network](/Network/README.md)
+##### [Linux](/Linux/README.md)
+##### [Programming language](/Programming%20language/README.md)
+
 *Still learning..*
 <br>
 [Youtbe](https://www.youtube.com)
