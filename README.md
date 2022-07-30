@@ -8,5 +8,7 @@ This is a blog, a document where I save things I have learned in free time.
 #####Linux
 #####Programming language
 *Still learning..*
-<br><br>
+<br>
+[Youtbe](https://www.youtube.com)
+<br>
 If you see this by accident, hope you enjoy it :3
